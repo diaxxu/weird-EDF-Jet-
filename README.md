@@ -1,6 +1,6 @@
 # EDF Jet Model (Fusion 360)
 
-This is a custom-designed RC jet made in Fusion 360. It’s built for a 40mm EDF (Electric Ducted Fan) and includes internal channels for efficient airflow.
+This is a designed RC jet made in Fusion 360. It’s built for a 40mm EDF (Electric Ducted Fan) and includes internal channels for efficient airflow.
 
 ## Features
 
@@ -13,10 +13,8 @@ This is a custom-designed RC jet made in Fusion 360. It’s built for a 40mm EDF
 - **Canopy**: Removable or transparent depending on your build style.
 
 ## Materials
-
-- Foamboard for prototyping or molding
-- PLA/ABS if 3D printing sections
-- Lightweight wood (optional) for reinforcements
+- PLA/ABS for 3D printing 
+- Lightweight CF rods (optional) for reinforcements
 
 ## Notes
 
@@ -30,4 +28,4 @@ You can use this as an RC EDF plane, a static display model, or a base for large
 
 ---
 
-*Designed by me in Fusion 360. Customize, build, fly.*
+*Designed by me in Fusion 360.*
