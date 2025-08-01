@@ -20,7 +20,7 @@ This is a designed RC jet made in Fusion 360. It’s built for a 40mm EDF (Elect
 
 - Balance your CG around the fan for stability.
 - Make sure your duct is smooth inside to reduce turbulence.
-- Add cooling exits near the back if your electronics get hot.
+- This jet require rc experience since its a forward-swept wings 
 
 ## Usage
 
