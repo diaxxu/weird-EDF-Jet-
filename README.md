@@ -2,6 +2,7 @@
 
 This is a designed RC jet made in Fusion 360. It’s built for a 40mm EDF (Electric Ducted Fan) and includes internal channels for efficient airflow.
 
+
 ## Features
 
 - **40mm EDF housing**: Perfect fit for a standard 40mm ducted fan unit.
@@ -25,7 +26,12 @@ This is a designed RC jet made in Fusion 360. It’s built for a 40mm EDF (Elect
 ## Usage
 
 You can use this as an RC EDF plane, a static display model, or a base for larger jet designs.
+## Screenshots
 
+![Render 1](photo/Capture1.png)  
+![Render 2](photo/Capture2.png)  
+![Render 3](photo/Capture3.png)  
+![Render 4](photo/Capture4.png)
 ---
 
 *Designed by me in Fusion 360.*
